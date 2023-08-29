@@ -1,0 +1,19 @@
+/*const User = (props) =>{
+    return (
+        <div>
+            <h1>{props.name}</h1>
+            <p>{props.description}</p>
+        </div>
+    );
+};
+
+export default User;
+
+//prompt->properties /parameters
+
+/*props->data that is being passed from one component
+to another
+*/
+
+state
+-> a set of data that an individual component holds
